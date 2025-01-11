@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:/Espressif/frameworks/esp-idf-v5.3.2-5/",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM5",
+    "idf.toolsPathWin": "C:\\Espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_ldo_regulator.h": "c",
+        "mcu_init.h": "c"
+    }
+}
